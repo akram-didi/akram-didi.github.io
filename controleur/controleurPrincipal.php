@@ -2,7 +2,7 @@
 
 function controleurPrincipal($action){
     $lesActions = array();
-    $lesActions["defaut"] = "bateau.php";
+    $lesActions["presentation"] = "bateau.php";
     $lesActions["affichePorts"] = "bateau.php";
    
     $lesActions["crudbateau"] = "crudbateau.php";
