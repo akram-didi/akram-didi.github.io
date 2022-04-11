@@ -13,3 +13,4 @@ include "$racine/vue/vuepresentation.php";
 include "$racine/vue/pied_page.php";?>
 </p>
 
+r('(')
